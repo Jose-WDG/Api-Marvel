@@ -1,0 +1,53 @@
+.logo{
+    width: 100%;
+  max-width: 250px;
+  height: auto;
+}
+.navbar-custom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #22262a;
+}
+.btn-custom{
+  color: #fff;
+  border: solid 1px #fff;
+}
+.btn-custom-descript{
+  background-color: #22262a;
+  width: 100%;
+  text-align: center;
+  margin-top: 5px;
+}
+footer>a{
+  text-decoration: none;
+  color: #fff;
+}
+footer>a:hover{
+  text-decoration: none;
+  color: red;
+}
+.title{
+  margin-top: 30px;
+}
+
+.footer {
+  width: 101%;
+  margin: -0% -1%;
+  margin-bottom: -1%;
+  background-color: #22262a;
+}
+
+.bar{
+  list-style: none;
+}
+.bar>li{
+  display: inline-block;
+}
+.lead{
+  color:#FFF;
+  background-color: red;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: 'Fjalla One', sans-serif;
+}

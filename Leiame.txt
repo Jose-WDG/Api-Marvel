@@ -1,0 +1,15 @@
+===== Key´s ======
+Sua chave pública: 74cc9da6a532c3de72f0f0723974b475
+Sua chave privada: 486b7702b14be4ec815b88a9d4fc3f9a854cdff9
+
+==== Gerando o hash ====
+1ª ts+privatekey+publicKey
+    1486b7702b14be4ec815b88a9d4fc3f9a854cdff974cc9da6a532c3de72f0f0723974b475
+____________________________________________________________________________
+2ª md5 generator ( 1486b7702b14be4ec815b88a9d4fc3f9a854cdff974cc9da6a532c3de72f0f0723974b475 ) ; 
+  hash = 73baa5e9f6ba542616792ad6c459d1c0 
+________________________________________________________________________________________________
+3ª url final = http://gateway.marvel.com/v1/public/comics?ts=1&apikey=74cc9da6a532c3de72f0f0723974b475&hash=73baa5e9f6ba542616792ad6c459d1c0
+____________________________________________________________________________________________________________________________________________
+
+
